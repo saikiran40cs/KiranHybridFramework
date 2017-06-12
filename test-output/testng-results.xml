@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20912" started-at="2017-06-12T09:01:40Z" finished-at="2017-06-12T09:02:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20912" started-at="2017-06-12T09:01:40Z" finished-at="2017-06-12T09:02:01Z">
+      <class name="testCases.TC001_BorlandHybridTest">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="browserSetup" is-config="true" duration-ms="71" started-at="2017-06-12T14:31:40Z" finished-at="2017-06-12T14:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="4829" started-at="2017-06-12T14:31:41Z" data-provider="hybridData" finished-at="2017-06-12T14:31:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sign Up Application]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="842" started-at="2017-06-12T14:31:46Z" data-provider="hybridData" finished-at="2017-06-12T14:31:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GOTOURL]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[url]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="1487" started-at="2017-06-12T14:31:47Z" data-provider="hybridData" finished-at="2017-06-12T14:31:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CLICK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpButton]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="159" started-at="2017-06-12T14:31:49Z" data-provider="hybridData" finished-at="2017-06-12T14:31:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpFName]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Antero]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="131" started-at="2017-06-12T14:31:49Z" data-provider="hybridData" finished-at="2017-06-12T14:31:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpLName]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[vaissi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="138" started-at="2017-06-12T14:31:49Z" data-provider="hybridData" finished-at="2017-06-12T14:31:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpBDay]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[03/06/1992]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="192" started-at="2017-06-12T14:31:49Z" data-provider="hybridData" finished-at="2017-06-12T14:31:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpEmail]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test@test.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="168" started-at="2017-06-12T14:31:49Z" data-provider="hybridData" finished-at="2017-06-12T14:31:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpStreet]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NewLandStreet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="141" started-at="2017-06-12T14:31:49Z" data-provider="hybridData" finished-at="2017-06-12T14:31:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpCity]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="166" started-at="2017-06-12T14:31:50Z" data-provider="hybridData" finished-at="2017-06-12T14:31:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SELECTTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpState]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Alabama]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="129" started-at="2017-06-12T14:31:50Z" data-provider="hybridData" finished-at="2017-06-12T14:31:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpPostalCode]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[35006]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="127" started-at="2017-06-12T14:31:50Z" data-provider="hybridData" finished-at="2017-06-12T14:31:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[signUpPassword]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="4222" started-at="2017-06-12T14:31:50Z" data-provider="hybridData" finished-at="2017-06-12T14:31:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CLICK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[registerButton]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="3425" started-at="2017-06-12T14:31:54Z" data-provider="hybridData" finished-at="2017-06-12T14:31:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Login In Application]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="859" started-at="2017-06-12T14:31:58Z" data-provider="hybridData" finished-at="2017-06-12T14:31:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GOTOURL]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[url]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="194" started-at="2017-06-12T14:31:58Z" data-provider="hybridData" finished-at="2017-06-12T14:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emailId]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[john.smith@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="101" started-at="2017-06-12T14:31:59Z" data-provider="hybridData" finished-at="2017-06-12T14:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SETTEXT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="testLogin" duration-ms="262" started-at="2017-06-12T14:31:59Z" data-provider="hybridData" finished-at="2017-06-12T14:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CLICK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[loginButton]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:testCases.TC001_BorlandHybridTest@754ba872]" name="closeSession" is-config="true" duration-ms="2313" started-at="2017-06-12T14:31:59Z" finished-at="2017-06-12T14:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- testCases.TC001_BorlandHybridTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
